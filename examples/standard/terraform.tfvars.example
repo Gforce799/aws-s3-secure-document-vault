@@ -1,8 +1,0 @@
-name        = "s3-secure-document-vault"
-environment = "dev"
-aws_region  = "us-east-1"
-
-tags = {
-  Owner      = "platform-team"
-  CostCenter = "portfolio"
-}
